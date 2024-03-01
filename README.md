@@ -6,16 +6,16 @@ The Maze was written in C using SDL2 library and deveploment performed using ubu
 
 It runs on ubuntu systems using the technique of raycasting to create the apparent 3D nature of the maze.
 
-Technologies-SDL2
-Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog and many Humble Bundle games. For more information on SDL2.
+# Technologies-SDL2
+.Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog and many Humble Bundle games. For more information on SDL2.
 
-Challenge
-Studying SDL2 was quite a challenge for me and required much dedication to comprehend. After watching and doing thorough research I was able to grasp the concept fully.
+# Challenge
+.Studying SDL2 was quite a challenge for me and required much dedication to comprehend. After watching and doing thorough research I was able to grasp the concept fully.
 
-Risks
+# Risks
 W or up arrow key - Moving forward S or down arrow - Moving backward left arrow key - to rotate the player in counter clock wise direction right arrow key - to rotate the player in clock wise direction
 
-AUTHORS
+# AUTHORS
 
-Leonard Sammy <leonardsammy01@gmail.com>
+Leonard Sammy
 https://github.com/lenny1-ux/Maze-Project
